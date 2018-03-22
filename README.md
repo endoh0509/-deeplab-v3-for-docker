@@ -3,9 +3,8 @@
 # Usage
 
 ```bash
-git clone THIS_REPOSITORY_URL
+git clone --recursive THIS_REPOSITORY_URL
 cd THIS_REPOSITORY_PATH
-git clone https://github.com/endoh0509/models.git ./home/jovyan/work/models
 docker build .
 docker images
 docker tag IMAGE_ID deeplab/v3:1.0

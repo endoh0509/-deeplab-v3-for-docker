@@ -1,4 +1,4 @@
-# DeepLab-v3
+# DeepLab-v3 for Docker
 
 # Usage
 
